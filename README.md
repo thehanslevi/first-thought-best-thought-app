@@ -4,7 +4,7 @@
 
 # First Thought Best Thought
 
-Built by Hannah Levinson • more at hrlevinson.com
+Built by Hannah Levinson • more at [hrlevinson.com](https://hrlevinson.com)
 
 **A practice tool for spontaneous writing. No backspace. No revisions.**
 
