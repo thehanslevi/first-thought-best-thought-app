@@ -17,20 +17,17 @@
 > "You're a Genius all the time." — Jack Kerouac
 
 First Thought Best Thought interrupts you at unpredictable moments with a brief
-creative prompt. You open it and write. The backspace key is disabled. When the timer
-ends, the piece is finished — you can keep it, share it, or discard it, but you cannot
-edit it.
+creative prompt. When the timer ends, the piece is finished — you can keep it, share it, or discard it, but you cannot edit it.
 
 The premise is not that creativity must be learned, but that it must be *released* —
 that the ordinary mind, caught in the act of noticing, is already doing something
-extraordinary. The app creates the conditions (speed, constraint, surprise, permission)
-and trusts what emerges.
+extraordinary. The app creates the conditions (speed, constraint, surprise, permission) for Genius and trusts what emerges.
 
 ## What it is not
 
-- **Not a journal** — no editing past entries, no folders, tags, or titles.
-- **Not a productivity app** — no goals, no streaks-as-pressure, no metrics.
-- **Not a social network** — no accounts, no feed; everything stays on your device.
+- **Not a journal** — no editing, folders, tags, or titles.
+- **Not a productivity app** — no goals, streaks, or metrics.
+- **Not a social network** — no accounts and no feed; everything stays on your device.
 - **Not a writing coach** — it never scores, critiques, or "improves" what you wrote.
 
 ## Screenshots
