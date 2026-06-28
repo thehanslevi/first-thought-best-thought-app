@@ -6,8 +6,6 @@
 
 **A practice tool for spontaneous writing. No backspace. No revisions.**
 
-*Closer to a meditation timer or a musical instrument than a notes app.*
-
 </div>
 
 ---
